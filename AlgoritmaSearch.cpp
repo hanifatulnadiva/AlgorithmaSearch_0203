@@ -40,5 +40,9 @@ void LineaarSearch()
 
         ctr=0;
         i=0;
+        while (i<n)
+        {
+            
+        }
     } while((ch == 'y')||(ch == 'Y'));
 }
