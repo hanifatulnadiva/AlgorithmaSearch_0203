@@ -42,7 +42,7 @@ void LineaarSearch()
         i=0;
         while (i<n)
         {
-            
+            i++;
         }
     } while((ch == 'y')||(ch == 'Y'));
 }
