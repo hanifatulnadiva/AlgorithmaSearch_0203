@@ -30,4 +30,5 @@ void input()
 void LineaarSearch()
 {
     char ch;
+    int ctr;
 }
