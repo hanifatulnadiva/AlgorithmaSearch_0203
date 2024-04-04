@@ -31,4 +31,5 @@ void LineaarSearch()
 {
     char ch;
     int ctr;
+    int item;
 }
