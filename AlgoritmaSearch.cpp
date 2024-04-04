@@ -44,5 +44,8 @@ void LineaarSearch()
         {
             i++;
         }
+        if(i==n)
+            cout << "\n" << item << "not found in the array\n";
+
     } while((ch == 'y')||(ch == 'Y'));
 }
